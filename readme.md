@@ -75,6 +75,10 @@ This page contains the following image, named 'CONTROL.png'
 
 ![Control.png](/prizes/CONTROL.png)
 
+This image can be seen on the website at
+
+    https://cybusindustries.org/wp-content/uploads/2022/08/CONTROL.png
+
 It also contains a link to the security logon page
 
     https://cybusindustries.org/security/
