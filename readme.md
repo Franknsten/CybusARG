@@ -14,7 +14,18 @@ A classified UNIT image
 <img src="prizes/prize0-1.jpg" width="400px" height="400px"></img>
 
 # Clues
-
+* [Clue 1](#clue-1---august-4th)
+* [Clue 2](#clue-2----august-7th)
+* [Clue 3](#clue-3---august-8th)
+* [Clue 4](#clue-4---august-9th)
+* [Clue 5](#clue-5---august-9th)
+* [Clue 6](#clue-6---august-10th)
+* [Clue 7](#clue-7---august-11th)
+* [Clue 8](#clue-8---august-11th)
+* [Clue 9](#clue-9---august-11th)
+* [Clue 10](#clue-10---august-12th)
+* [Clue 11](#clue-11---august-12th)
+* [Clue 12]()
 ## Clue 1 - August 4th
 Cybus tweet about a security breach. The following image is tweeted
 
@@ -409,7 +420,16 @@ Status: Alive
 Occupation: Tech Genius, founder of Magpie Electronics\
 Context: Wanted to buyout Cybus\
 Status: Deceased after 'falling' throgh a window
-
+### John Simmonds
+Occupation: Author\
+Instagram: [@johnsimmonds67](https://instagram.com/johnsimmonds67)\
+Status: Alive
+### Steff Porter
+Occupation: Ex-Cybus employee, helpful ally on Twitter\
+Context: Provides leaked information via Twitter [@steffPorterC](https://twitter.com/SteffPorterC)
+Alias: Naomi Tarker\
+Username: tarker_naomi01
+Status: Abducted by Cybus
 
 ## FUTURE
 A Discord user somehow got 
@@ -421,16 +441,7 @@ Following this, the previous security page has updated to just be a password for
 The Mainframe had a timer counting down
 
 The mainframe had the Cybus logo, but now has the Preachers logo, and the image is called Teamwork
-### John Simmonds
-Occupation: Author\
-Instagram: @johnsimmonds67
-Status: Alive
-### Steff Porter
-Occupation: Ex-Cybus employee, helpful ally on Twitter\
-Context: Provides leaked information via Twitter [@steffPorterC](https://twitter.com/SteffPorterC)
-Alias: Naomi Tarker\
-Username: tarker_naomi01
-Status: Abducted by Cybus
+
 ## Clearance Level Delta Materials
 
 From the Travel promo
