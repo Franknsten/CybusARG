@@ -371,7 +371,7 @@ Shortly after, Cybus has their twitter account hacked and tweets (now deleted)
 
 ![Tweet 1](/clues/clue11-1.png)
 ![Tweet 2](/clues/clue11-2.png)
-<img src="clues/clue11-3.jpg" width="300px">
+<img src="clues/clue11-3.jpg" width="300px">\
 ![Tweet 3](/clues/clue11-4.jpg)
 
 The account also tweets (now deleted) a link to an unlisted [youtube video](https://www.youtube.com/watch?v=FfAthsM_78U&), the same as the video Steff uploaded
