@@ -11,7 +11,7 @@ A bar, and
 
 A classified UNIT image
 
-![UNIT Image](/prizes/prize0-1.jpg)
+<img src="prizes/prize0-1.jpg" width="400px" height="400px"></img>
 
 # Clues
 
@@ -38,7 +38,7 @@ This decodes from hexadecimal to a (now defunct) [link](shorturl.at/FNRTU)
 
 That link had the colour cctv image
 
-![CCTV Image](/prizes/prize1-2.png)
+<img src="prizes/prize1-2.png" height="300px"></img>
 
 ## Clue 2  - August 7th
 Cybus Industries release a [video statement](https://www.youtube.com/watch?v=SYJk3hEI-3c) about the tragic death of Magpie, who fell out of a window following his plan to buy the company
@@ -53,7 +53,7 @@ This can be appended to the Cybus website
 
 This page contains the following image, named 'CONTROL.png'
 
-![Control.png](/prizes/control.png)
+![Control.png](/prizes/CONTROL.png)
 
 It also contains a link to the security logon page
 
@@ -188,7 +188,7 @@ This is the ten characters hinted at in Clue 2
 ## Clue 6 - August 10th
 Steff posts a (now defunct) link to an online jigsaw puzzle. Assembling it reveals more leaked emails
 
-![Jigsaw Eimage](/clues/clue6-1.png)
+<img src="clues/clue6-1.png" width="500px"></img>
 
 This is from Crest to Stephanie Sullivan, the new Head of Digital Security. He is warning her that she will be fired if these hacks and leaks continue. 
 
@@ -197,7 +197,7 @@ This email mentions that there is 8 characters added to passwords for security r
 ## Clue 7 - August 11th
 Cybus Industries [tweet](https://twitter.com/CybusIndus/status/1557471359336386560) an image of an article about UNIT being replaced by CybusDefence. 
 
-![BBC Article](/clues/clue7-1.jpg)
+<img src="clues/clue7-1.jpg" width="400px"></img>
 
 There are pigeons edited into the image, which fits the theme of looking for birds for clues. Steff also tweets in reply, a collation of 'prize' images and associated hashtags, including #pigeon
 
@@ -302,7 +302,7 @@ Cybus [tweets](https://twitter.com/CybusIndus/status/1557851793018613760) an adv
 
 There is an application form, which when filled out sends you an email including an attachment
 
-![Leader Email](/clues/clue10-1.jpg)
+<img src="clues/clue10-1.jpg" height="400px"><img>
 
 This is a screenshot of an email from Crest to a Jamal Bennett, an employee involved in organising the UNIT handover process. They include an image in the screenshot of an 'animal' similar to what is being contained in facilities worldwide.
 
@@ -312,7 +312,7 @@ _NOTE: The image in the email says jpg. The actual file is a png_
 
     https://cybusindustries.org/wp-content/uploads/2022/08/unit_archive_creature.png
 
-![Unit Archive Creature](/prizes/unit_archive_creature.png)
+<img src="prizes/unit_archive_creature.png" width="400px"></img>
 
 The email also contains an encyption key
 
@@ -347,7 +347,7 @@ Shortly after, Cybus has their twitter account hacked and tweets (now deleted)
 
 ![Tweet 1](/clues/clue11-1.png)
 ![Tweet 2](/clues/clue11-2.png)
-![Tweet 3](/clues/clue11-3.jpg)
+<img src="clues/clue11-3.jpg" width="300px"></img>
 ![Tweet 3](/clues/clue11-4.jpg)
 
 The account also tweets (now deleted) a link to an unlisted [youtube video](https://www.youtube.com/watch?v=FfAthsM_78U&), the same as the video Steff uploaded
