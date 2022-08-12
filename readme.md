@@ -31,7 +31,6 @@ A classified UNIT image
 * [Clue 9](#clue-9---august-11th)
 * [Clue 10](#clue-10---august-12th)
 * [Clue 11](#clue-11---august-12th)
-* [Clue 12]()
 ## Clue 1 - August 4th
 Cybus tweet about a security breach. The following image is tweeted
 
