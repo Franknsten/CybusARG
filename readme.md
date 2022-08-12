@@ -1,7 +1,13 @@
+# Table of Contents
+[Clues so far](#clues)\
+[Useful ingame information](#other-information)\
+[Useful Information outside of the game]($meta-information)
+
+_Some images have been resized on this page to make the page more readable. You can open the image in a new tab to view it at the full size_
 # Initial
 Cybus Industries starts tweeting on July 27th
 
-On July 31st, they [tweeet](https://twitter.com/CybusIndus/status/1553471117553061888) a travel promo. Two QR Codes in this image link to 
+On July 31st, they [tweet](https://twitter.com/CybusIndus/status/1553471117553061888) a travel promo. Two QR Codes in this image link to 
 
     https://www.camdenmarket.com/shops/cyberdog
 
@@ -11,7 +17,7 @@ A bar, and
 
 A classified UNIT image
 
-<img src="prizes/prize0-1.jpg" width="400px" height="400px"></img>
+<img src="prizes/prize0-1.jpg" width="400px" height="400px">
 
 # Clues
 * [Clue 1](#clue-1---august-4th)
@@ -39,7 +45,7 @@ This can be decoded from hexadecimal to a [link](https://qrco.de/bdDqvQ)
 
 That page hosts the following image, an email from Keith Simpson (Head of Digital Security) to Steven Crest (CEO)
 
-![Leaked email](/prizes/prize1-1.png)
+<img src="prizes/prize1-1.png" width="400px">
 
 This email features an attachment that isn't fully legible, 'full_colour_cctv_leak.jpg', and an encryption key at the bottom
 
@@ -49,7 +55,11 @@ This decodes from hexadecimal to a (now defunct) [link](shorturl.at/FNRTU)
 
 That link had the colour cctv image
 
-<img src="prizes/prize1-2.png" height="300px"></img>
+<img src="prizes/prize1-2.png" height="300px">
+
+This image can also be found using the filename in the email
+
+    https://cybusindustries.org/wp-content/uploads/2022/08/full_colour_cctv_leak.jpg
 
 ## Clue 2  - August 7th
 Cybus Industries release a [video statement](https://www.youtube.com/watch?v=SYJk3hEI-3c) about the tragic death of Magpie, who fell out of a window following his plan to buy the company
@@ -80,7 +90,7 @@ Naomi Tarker was revealed to be an alias of Steff Porter, and Ex-Employee, in th
 ## Clue 3 - August 8th
 Cybus tweets, then deleted, the following
 
-![Third Clue](/clues/clue3-1.png)
+<img src="clues/clue3-1.png" width="300px">
 
 _Note: The following is from another twitter account, preserving the text of the second deleted tweet_
 
@@ -132,7 +142,7 @@ The top-right corner of the image contains the text 'seagull', as well as a Seag
 
 This can then be added to the Cybus website
 
-    https://cybusindustries.org/seagull/
+    https://cybusindustries.org/seagull
 
 This page contains another image
 
@@ -208,7 +218,7 @@ This email mentions that there is 8 characters added to passwords for security r
 ## Clue 7 - August 11th
 Cybus Industries [tweet](https://twitter.com/CybusIndus/status/1557471359336386560) an image of an article about UNIT being replaced by CybusDefence. 
 
-<img src="clues/clue7-1.jpg" width="400px"></img>
+<img src="clues/clue7-1.jpg" width="400px">
 
 There are pigeons edited into the image, which fits the theme of looking for birds for clues. Steff also tweets in reply, a collation of 'prize' images and associated hashtags, including #pigeon
 
@@ -268,7 +278,7 @@ Cybus [tweet](https://twitter.com/CybusIndus/status/1557683734077489152) an anno
 
 There is a peacock in the center of the logo. This is another bird which can be added to the Cybus website
 
-    https://cybusindustries.org/peacock/
+    https://cybusindustries.org/peacock
 
 Shortly after this, they [tweet](https://twitter.com/CybusIndus/status/1557704833393741827) a high resolution promo image for The Late Late Show With Craig Owens
 
@@ -323,7 +333,7 @@ _NOTE: The image in the email says jpg. The actual file is a png_
 
     https://cybusindustries.org/wp-content/uploads/2022/08/unit_archive_creature.png
 
-<img src="prizes/unit_archive_creature.png" width="400px"></img>
+<img src="prizes/unit_archive_creature.png" width="400px">
 
 The email also contains an encyption key
 
@@ -343,7 +353,7 @@ There are many birds in here, but the Sparrow gets several mentions. In addition
 
 This can be added to the Cybus website
 
-    https://cybusindustries.org/sparrow/
+    https://cybusindustries.org/sparrow
 
 Which contains another image
 
@@ -358,7 +368,7 @@ Shortly after, Cybus has their twitter account hacked and tweets (now deleted)
 
 ![Tweet 1](/clues/clue11-1.png)
 ![Tweet 2](/clues/clue11-2.png)
-<img src="clues/clue11-3.jpg" width="300px"></img>
+<img src="clues/clue11-3.jpg" width="300px">
 ![Tweet 3](/clues/clue11-4.jpg)
 
 The account also tweets (now deleted) a link to an unlisted [youtube video](https://www.youtube.com/watch?v=FfAthsM_78U&), the same as the video Steff uploaded
@@ -375,7 +385,7 @@ Cardinal is a type of bird seen in the file from Clue 10. There is no cardinal p
 
 Adding northerncardinal to the Cybus website
 
-    https://cybusindustries.org/northerncardinal/
+    https://cybusindustries.org/northerncardinal
 
 Loads a page with another image
 
@@ -395,7 +405,7 @@ And instead we need to have a different attitude to our mistakes and to our misd
 Walt Whitman always admired animals because they do not lie awake at night and weep for their sins. Animals are practical in the real sense as are children\
 The first thing to understand is that it is not a serious failing in a human being to make mistakes. Everybody has to make mistakes.
 
-
+These are quotes from poet Alan Watts
 
 # Other Information
 ## Cybus Industries Staff
@@ -431,6 +441,27 @@ Alias: Naomi Tarker\
 Username: tarker_naomi01
 Status: Abducted by Cybus
 
+## Cybus Industries Website
+### 'Official' Pages
+_Pages tweeted by the Cybus Industries twitter account_
+
+Homepage: https://cybusindustries.org/\
+Figurine Store: https://cybusindustries.org/figures/\
+Leadership Applications: https://cybusindustries.org/cyberleaders\
+### 'Discovered' Pages
+_Pages discovered through leaks and hints_
+
+Parakeet: https://cybusindustries.org/parakeet\
+Security: https://cybusindustries.org/security/\
+Seagull: https://cybusindustries.org/seagull/\
+Woodpecker: http://cybusindustries.org/woodpecker\
+Pigeon: https://cybusindustries.org/pigeon/\
+Mockingbird: https://cybusindustries.org/mockingbird\
+Peacock: https://cybusindustries.org/peacock/\
+Sparrow: https://cybusindustries.org/sparrow/\
+
+
+
 ## FUTURE
 A Discord user somehow got 
     https://cybusindustries.org/securitymainframe/
@@ -451,3 +482,39 @@ From the Travel promo
 From the leadership email
 
 ![Delta2](/prizes/unit_archive_creature.png)
+
+
+# Meta Information
+## Context
+This is an online game, with the main accounts being [@CybusIndus](https://twitter.com/CybusIndus) as the 'game master' and [@SteffPorterC](https://twitter.com/SteffPorterC) as our 'ally', an ex-employee
+
+This seemingly takes place within the world of Doctor Who, with Cybus Industries having become a global company pursuing the goal of upgrading humans into cybermen. It is littered with references to both classic and modern Doctor Who stories, as well as fun jokes about our modern world (Elon Magpie, Cyber Prince Andrew, etc.)
+
+An ARG requires the players (us) to be crafty, looking for little hidden details in images or webpages, decrypting codes, and picking up on hints. 
+
+A community discord has started up, found [here](https://discord.com/invite/Sut284Mj), where players share ideas, findings, and work through the mystery.
+## Tools
+The below sites have been useful in cracking puzzles so far. They are not exclusive, but are very handy
+
+### Ceasar Shift
+This is a fairly common simple encrypting method. You just move each letter a certain number of letters down the alphabet. ABC shifted by 3 becomes DEF, as each letter is advanced by 3.
+
+[Cryptii](https://cryptii.com/pipes/caesar-cipher) has a Caesar Shift tool, which may come in handy
+
+### Hexadecimal (hex) decoding
+This is common throughout the ARG. Hexadecimal is just a waya of representing data using characters between 0 and 9, and A to F. Each 'normal' letter is represented as a pair of hex characters (a 'normal' capital A is represented by 41 in hexadecimal)
+
+[Cryptii](https://cryptii.com/pipes/hex-decoder) has a tool to do this. Just paste the encoded hex string into the left, and if it can be decoded, it will appear on the right
+
+### Base64
+This is more advanced than hexadecimal encoding. One letter is not always represented the same way, due to the maths used when encoding data. For example, "a" is turned into "YQ==", while "aaa" becomes "YWFh". Often, you can recognise base64 by equals signs (=) at the end of a string, as this is used to increase the length to a valid size for the process
+
+[Cryptii](https://cryptii.com/pipes/text-to-base64) again has a useful tool for this. 
+
+### AES Decryption
+This is even more advanced. In AES, the 'normal' text is encrypted using a special 'key' using advanced maths, to produce the encrypted text. Similarly, decryption also requires the use of that key, to get the correct output
+
+[Devglan](https://www.devglan.com/online-tools/aes-encryption-decryption) has a great tool for this. If you enter the encrypted text, and key, into the relevant boxes, it will decode it. This tool offers decrypting to base64 as well as plaintext, which cuts out a handy middleman
+
+### Inspect Element
+Sometimes, ARG makers will add hidden information to a website. You can see these by using the 'Inspect Element' tool in your browser. Typically, you jsut need to right click a page then choose 'inspect'. Look out for HTML comments which look like \<!-- comment text -->
