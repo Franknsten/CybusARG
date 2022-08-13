@@ -309,11 +309,11 @@ _Note: This image has been rotated to be more readable_
 
 The text here is the same code seen in Clue 8
 
-    Kplk6
+    kplk6
 
 Which can be shifted 19 places to
 
-    Died6
+    died6
 
 This clue was likely released to aid in the previous Clue, given the difficulty of solving it.
 
@@ -408,7 +408,98 @@ And instead we need to have a different attitude to our mistakes and to our misd
 Walt Whitman always admired animals because they do not lie awake at night and weep for their sins. Animals are practical in the real sense as are children\
 The first thing to understand is that it is not a serious failing in a human being to make mistakes. Everybody has to make mistakes.
 
-These are quotes from poet Alan Watts
+These are quotes from poet Alan Watts. Alan Watts has a quote about lifelessness,
+
+    The more a thing tends to be permanent, the more it tends to be lifeless
+
+This focus on Alan Watts leads to a page on the website
+
+    https://cybusindustries.org/alanwatts
+
+Which features an image of Watts with a portion of the wikiedia article
+
+![Alan Watts](/clues/clue11-5.png)
+
+This page also included a link, clicking it would prompt you to tweet a link to a tweet of the lifeless quote
+
+The page was later updated to include a YouTube [video](https://www.youtube.com/watch?v=FBW453TvSeg) called 'purge', and a [link](https://twitter.com/AlanWattsDaily/status/1495260078974377987) to another quote by Watts
+
+### Purge
+This is another video that needs to be reversed
+
+Reversing it reveals there is music, 'One' by Harry Nilsson, with the following quote tead
+
+>One is a lonely number.\
+This feeling of being lonely and very temporary visitors in the universe is in flat contradiction to everything known about man and the sciences.\
+We do not come into this world, we come out of it, as leaves from a tree.\
+As the ocean "waves", the universe "peoples".\
+Every individual is an expression of the whole realm of nature.\
+A unique action of a total universe.\
+Individuality will be purged.\
+What makes us human will be purged.\
+
+There is also beeping, morse code. This code is 'isolated' in a [tweet](https://twitter.com/SteffPorterC/status/1558118441298628608) by Steff
+
+This can be identified as 
+
+    -.. . .-.. . - . / - .... . / .-.. --- -. . .-.. -.-- / -. ..- -- -... . .-.
+
+Which decodes to
+
+    DELETE THE LONELY NUMBER
+
+Birth and Death are themes through the given quotes, and there are still 3 characters neeed for the password. Watts was born in 1915, and died in 1973. As these dates both lead with a 1, leaving 3 characters, one of these can be assumed to be the key. The instructions to purge, and delete, the lonely number are instructions to delete 1.
+
+Watts' birth year, minus the leading 1, provides the final 3 characters
+
+    915
+
+for a final password of 
+
+    the_Canary_died6915
+
+_NOTE: This is a poor-ish clue. Removing the lonely number would mean both of the 1's would be deleted. There's no rationale for it to only be the leading 1, and 'trial and error' solutions are usually absent from ARGs_
+
+This password can be entered on the Security Mainframe page
+
+    https://cybusindustries.org/securitymainframe/
+
+This page features a message from Steff and a countdown
+
+_NOTE: The security page seen earlier now has a link to this new mainrame page_
+
+The cybus logo has been defaced to the Preachers logo, and is called 'Teamwork' in the image upload
+
+    https://cybusindustries.org/wp-content/uploads/2022/08/teamwork-150x150.png
+
+![Countdown](/prizes/prize11-2.jpg)
+
+The Message from steff is
+
+>Your hard work has not gone unappreciated\
+Now I know you're skilled, I must ask for your help\
+I have been in their security software for months. Laying traps. Planning. Playing the long game\
+If we can gain access to their primary servers, we have a chance of exposing them for the evil they really are\
+**However**\
+If you're reading this I'm currently stuck in a cell\
+Most likely post-interrogation and awaiting more\
+If you're reading this, and I hope you are, ten I'm currnetly locked up. I might have been in this cell for days. But thankfully we know their security is useless.\
+I always knew they'd fine me eventually, that they'd bring me here. But we're one step ahead of them, as always.\
+It was a matter of time and a matter of acquiring enough help to plunder their server\
+**At 18:00 16/08**\
+You can unlock my cell from the outside\
+You can navigate this security system and bring the whole thing crashing down\
+~\
+**Stay tuned\
+**THEY ARE ALL JUST PUPPETS\
+Have you put the pieces of my picture puzzle together?\
+So at least you're beginning to understand what we are really up against?
+
+Written in the standard 'corupt' aesethetic text. 
+
+There is a message thatthe page will update at 6pm on August 16th 2022.
+
+
 
 # Other Information
 ## Cybus Industries Staff
