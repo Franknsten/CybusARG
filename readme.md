@@ -499,6 +499,18 @@ Written in the standard 'corupt' aesethetic text.
 
 There is a message thatthe page will update at 6pm on August 16th 2022.
 
+## Clue 12 - Security Mainframe
+Of note:
+
+### Countdown
+* The text displayed has 'y' 'u' 'u', when copied these change to 'days' 'hours' 'minutes'
+* There are barcode-like images displayed either side of these
+
+![y](/clues/clue12-1.jpg) ![u](/clues/clue12-2.jpg) ![u2](/clues/clue12-3.jpg)
+
+* Viewing the pages sources reveals this font is called 'Libre Barcode EAN13 Text', available on [Google Fonts](https://fonts.google.com/specimen/Libre+Barcode+EAN13+Text)
+
+![Font](/clues/clue12-4.jpg)
 
 
 # Other Information
@@ -555,17 +567,6 @@ Peacock: https://cybusindustries.org/peacock/\
 Sparrow: https://cybusindustries.org/sparrow/\
 
 
-
-## FUTURE
-A Discord user somehow got 
-    https://cybusindustries.org/securitymainframe/
-to load without a password
-
-This page is new.
-Following this, the previous security page has updated to just be a password form.
-The Mainframe had a timer counting down
-
-The mainframe had the Cybus logo, but now has the Preachers logo, and the image is called Teamwork
 
 ## Clearance Level Delta Materials
 
