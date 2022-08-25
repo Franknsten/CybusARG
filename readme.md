@@ -17,9 +17,10 @@ A bar, and
 
 A classified UNIT image
 
-<img src="prizes/prize0-1.jpg" width="400px" height="400px">
+<img src="acti/prizes/prize0-1.jpg" width="400px" height="400px">
+# Act I
 
-# Clues
+## Clues
 * [Clue 1](#clue-1---august-4th)
 * [Clue 2](#clue-2----august-7th)
 * [Clue 3](#clue-3---august-8th)
@@ -31,10 +32,10 @@ A classified UNIT image
 * [Clue 9](#clue-9---august-11th)
 * [Clue 10](#clue-10---august-12th)
 * [Clue 11](#clue-11---august-12th)
-## Clue 1 - August 4th
+### Clue 1 - August 4th
 Cybus tweet about a security breach. The following image is tweeted
 
-![First tweeted clue](/clues/clue1-1.png)
+![First tweeted clue](/acti//clues/clue1-1.png)
 
 The text contained is
 
@@ -44,7 +45,7 @@ This can be decoded from hexadecimal to a [link](https://qrco.de/bdDqvQ)
 
 That page hosts the following image, an email from Keith Simpson (Head of Digital Security) to Steven Crest (CEO)
 
-<img src="prizes/prize1-1.png" width="400px">
+<img src="acti/prizes/prize1-1.png" width="400px">
 
 This email features an attachment that isn't fully legible, 'full_colour_cctv_leak.jpg', and an encryption key at the bottom
 
@@ -54,18 +55,18 @@ This decodes from hexadecimal to a (now defunct) [link](shorturl.at/FNRTU)
 
 That link had the colour cctv image
 
-<img src="prizes/prize1-2.png" height="300px">
+<img src="acti/prizes/prize1-2.png" height="300px">
 
 This image can also be found using the filename in the email
 
     https://cybusindustries.org/wp-content/uploads/2022/08/full_colour_cctv_leak.jpg
 
-## Clue 2  - August 7th
+### Clue 2  - August 7th
 Cybus Industries release a [video statement](https://www.youtube.com/watch?v=SYJk3hEI-3c) about the tragic death of Magpie, who fell out of a window following his plan to buy the company
 
 In this video, the word 'parakeet' is seen in the corner of a section
 
-![Parakeet in the video](/clues/clue2-1.png)
+![Parakeet in the video](/acti//clues/clue2-1.png)
 
 This can be appended to the Cybus website
 
@@ -73,7 +74,7 @@ This can be appended to the Cybus website
 
 This page contains the following image, named 'CONTROL.png'
 
-![Control.png](/prizes/CONTROL.png)
+![Control.png](/acti/prizes/CONTROL.png)
 
 This image can be seen on the website at
 
@@ -90,14 +91,14 @@ password: xxxxxxxxxx
 
 Naomi Tarker was revealed to be an alias of Steff Porter, and Ex-Employee, in the previous clue
 
-## Clue 3 - August 8th
+### Clue 3 - August 8th
 Cybus tweets, then deleted, the following
 
 <img src="clues/clue3-1.png" width="300px">
 
 _Note: The following is from another twitter account, preserving the text of the second deleted tweet_
 
-![Third Clue](/clues/clue3-2.png)
+![Third Clue](/acti//clues/clue3-2.png)
 
 The first tweet contains the text
     66 61 74 61 6c 5f 73 79 73 74 65 6d 5f 65 72 72 6f 72
@@ -116,7 +117,7 @@ to become
 
 Which is
 
-![Fatal System Error image](/prizes/prize3-1.png)
+![Fatal System Error image](/acti/prizes/prize3-1.png)
 
 This image contains a faint overlay of an email from Crest to Simpson, discussing Simpsons failure as head of digital security. There is also mention of a second encryption key
 
@@ -136,10 +137,10 @@ Using the security information revealed in Clue 2, the password is now
 
 This is confirmed by Steff Porter
 
-## Clue 4 - August 9th
+### Clue 4 - August 9th
 Cybus tweets a promotion for their upgrade, urging viewers to get Beach Ready
 
-![Are You Beach Ready](/clues/clue4-1.jpg)
+![Are You Beach Ready](/acti//clues/clue4-1.jpg)
 
 The top-right corner of the image contains the text 'seagull', as well as a Seagull on the Cybermans shoulder
 
@@ -149,10 +150,10 @@ This can then be added to the Cybus website
 
 This page contains another image
 
-![Seagull](/prizes/prize4-1.png)
+![Seagull](/acti/prizes/prize4-1.png)
 
 
-## Clue 5 - August 9th
+### Clue 5 - August 9th
 Cybus tweets a link to buy their Exosuit figurines
     http://cybusindustries.org/figures
 
@@ -162,16 +163,16 @@ Clicking the Add To Basket button takse you to the following
 
 That contains the following image
 
-![Woodpecker](/prizes/prize5-1.png)
+![Woodpecker](/acti/prizes/prize5-1.png)
 
 The Return Policy links to an unlisted YouTube video called [help help](https://www.youtube.com/watch?v=G8zASalF2mA)
 
-### Help Help
+#### Help Help
 There are several things in this video
-#### Tags
+##### Tags
 The description of the video says to check the tags. This can be done using Inspect Element, to inspect the 'head' element of the webpage, specifically the 'keywords' meta tag
 
-![Tags](/clues/clue5-1.jpg)
+![Tags](/acti//clues/clue5-1.jpg)
 
 This says
 
@@ -179,7 +180,7 @@ This says
 
 The first weird string is one we have seen before, in Clue 3 to reveal the first portion of the password. The second one is new
 
-#### Audio
+##### Audio
 By reversing the video, which can be found [here](https://www.youtube.com/watch?v=SHiKM2L45vQ)
 
 The audio becomes understandable. 
@@ -197,7 +198,7 @@ l8Tw5CYnLtyRI6rXd1YUSA==  (separated by dots?)
 More will follow. We can talk then.\
 Help. Help.
 
-### Decrypting
+#### Decrypting
 Using the encryption key from Clue 3, B&E)H@McQfTjWmZq, the new string can be decoded via AES to base64 and plain text
 
     anary_
@@ -209,7 +210,7 @@ Adding this to the password we have already gives us
 This is the ten characters hinted at in Clue 2
 
 
-## Clue 6 - August 10th
+### Clue 6 - August 10th
 Steff posts a (now defunct) link to an online jigsaw puzzle. Assembling it reveals more leaked emails
 
 <img src="clues/clue6-1.png" width="500px"></img>
@@ -218,7 +219,7 @@ This is from Crest to Stephanie Sullivan, the new Head of Digital Security. He i
 
 This email mentions that there is 8 characters added to passwords for security reasons.
 
-## Clue 7 - August 11th
+### Clue 7 - August 11th
 Cybus Industries [tweet](https://twitter.com/CybusIndus/status/1557471359336386560) an image of an article about UNIT being replaced by CybusDefence. 
 
 <img src="clues/clue7-1.jpg" width="400px">
@@ -231,12 +232,12 @@ This can be added to the Cybus website
 
 This inclues another image, this image has the word 'S i n' on it
 
-![Pigeon](/prizes/prize7-1.png)
+![Pigeon](/acti/prizes/prize7-1.png)
 
-## Clue 8 - August 11th
+### Clue 8 - August 11th
 Cybus tweets (now deleted) the following
 
-![Deleted Tweet](/clues/clue8-1.png)
+![Deleted Tweet](/acti//clues/clue8-1.png)
 
 The text 'mockingbird' in this can be added to the Cybus website
 
@@ -244,14 +245,14 @@ The text 'mockingbird' in this can be added to the Cybus website
 
 This contains another image
 
-![Mockingbird](/prizes/prize8-1.png)
+![Mockingbird](/acti/prizes/prize8-1.png)
 
 There is also a password protected video
 
-### Mockingbird Video
+#### Mockingbird Video
 Steff (tweets)[https://twitter.com/SteffPorterC/status/1557493210506825728?cxt=HHwWgMC8hdb0qZ0rAAAA]
 
-![Steff Tweet](/clues/clue8-2.png)
+![Steff Tweet](/acti//clues/clue8-2.png)
 
 Taken with the tag of 'Sin', and the mockingbird clue, this refers to the quote 'It's a sin to kill a mockinbird'. The sin in this, is to kill a mockingbird. This phrase is the password for the video
 
@@ -268,16 +269,16 @@ You have them scared, you are close, they will come for you, you must be quick, 
 
 Within the video, there are flashes of characters in red. The video needs to be rotated 180 degrees, and played in reverse, to get the following characters
 
-    Kplk6
+    kplk6
 
 When this is fed through a Caesar Cipher with a shift of 19, the decoding reveals
 
-    Died6
+    died6
 
-## Clue 9 - August 11th
+### Clue 9 - August 11th
 Cybus [tweet](https://twitter.com/CybusIndus/status/1557683734077489152) an announcement of their streaming service, Cybus Broadcasting Network. 
 
-![CBN Announcement](/clues/clue9-1.jpg)
+![CBN Announcement](/acti//clues/clue9-1.jpg)
 
 There is a peacock in the center of the logo. This is another bird which can be added to the Cybus website
 
@@ -285,11 +286,11 @@ There is a peacock in the center of the logo. This is another bird which can be 
 
 Shortly after this, they [tweet](https://twitter.com/CybusIndus/status/1557704833393741827) a high resolution promo image for The Late Late Show With Craig Owens
 
-![TLLSWCO](/clues/clue9-2.jpg)
+![TLLSWCO](/acti//clues/clue9-2.jpg)
 
 Steff [replies](https://twitter.com/SteffPorterC/status/1557714286486724610) to this image with a vandalised one
 
-![Vandalism](/clues/clue9-3.jpg)
+![Vandalism](/acti//clues/clue9-3.jpg)
 
 This image has a string of numbers running across Craigs neck, and throughout the background
 
@@ -305,7 +306,7 @@ By zooming in on both Craig images, the Cybus and Steff versions, a code can be 
 
 _Note: This image has been rotated to be more readable_
 
-![Craig Code](/prizes/prize9-1.png)
+![Craig Code](/acti/prizes/prize9-1.png)
 
 The text here is the same code seen in Clue 8
 
@@ -319,7 +320,7 @@ This clue was likely released to aid in the previous Clue, given the difficulty 
 
 Steff tweets that there are 3 characters remaining, the reemaining 3 in the security code in the password
 
-## Clue 10 - August 12th
+### Clue 10 - August 12th
 Cybus [tweets](https://twitter.com/CybusIndus/status/1557851793018613760) an advertisement for its Cyber Leaders program with a link
 
     https://cybusindustries.org/cyberleaders/
@@ -336,7 +337,7 @@ _NOTE: The image in the email says jpg. The actual file is a png_
 
     https://cybusindustries.org/wp-content/uploads/2022/08/unit_archive_creature.png
 
-<img src="prizes/unit_archive_creature.png" width="400px">
+<img src="acti/prizes/unit_archive_creature.png" width="400px">
 
 The email also contains an encyption key
 
@@ -360,19 +361,19 @@ This can be added to the Cybus website
 
 Which contains another image
 
-![Sparrow](/prizes/prize10-1.png)
+![Sparrow](/acti/prizes/prize10-1.png)
 
-## Clue 11 - August 12th
+### Clue 11 - August 12th
 Steff [tweets](https://twitter.com/SteffPorterC/status/1557876622233059331) a video of her in the woods, followed by a loud noise similar to a Cyberman stomping
 
 And [replies](https://twitter.com/SteffPorterC/status/1557876721235513346) to this, 'forgive my sins'
 
 Shortly after, Cybus has their twitter account hacked and tweets (now deleted)
 
-![Tweet 1](/clues/clue11-1.png)
-![Tweet 2](/clues/clue11-2.png)
+![Tweet 1](/acti//clues/clue11-1.png)
+![Tweet 2](/acti//clues/clue11-2.png)
 <img src="clues/clue11-3.jpg" width="300px">\
-![Tweet 3](/clues/clue11-4.jpg)
+![Tweet 3](/acti//clues/clue11-4.jpg)
 
 The account also tweets (now deleted) a link to an unlisted [youtube video](https://www.youtube.com/watch?v=FfAthsM_78U&), the same as the video Steff uploaded
 
@@ -392,13 +393,13 @@ Adding northerncardinal to the Cybus website
 
 Loads a page with another image
 
-![Northern Cardinal](/prizes/prize11-1.png)
+![Northern Cardinal](/acti/prizes/prize11-1.png)
 
 Thish as the text 'lifeless' and 'A W' imposed onto it
 
 The page also links to another unlisted [YouTube video](https://www.youtube.com/watch?v=VQLSfKfLwUE)
 
-### Cardinal Video
+#### Cardinal Video
 This is another reversed video. A reversed version, playing 'forward' can be seen [here](https://www.youtube.com/watch?v=_xT7Lf3IPa8)
 
 Transcribed:
@@ -418,13 +419,13 @@ This focus on Alan Watts leads to a page on the website
 
 Which features an image of Watts with a portion of the wikiedia article
 
-![Alan Watts](/clues/clue11-5.png)
+![Alan Watts](/acti//clues/clue11-5.png)
 
 This page also included a link, clicking it would prompt you to tweet a link to a tweet of the lifeless quote
 
 The page was later updated to include a YouTube [video](https://www.youtube.com/watch?v=FBW453TvSeg) called 'purge', and a [link](https://twitter.com/AlanWattsDaily/status/1495260078974377987) to another quote by Watts
 
-### Purge
+#### Purge
 This is another video that needs to be reversed
 
 Reversing it reveals there is music, 'One' by Harry Nilsson, with the following quote tead
@@ -472,7 +473,7 @@ The cybus logo has been defaced to the Preachers logo, and is called 'Teamwork' 
 
     https://cybusindustries.org/wp-content/uploads/2022/08/teamwork-150x150.png
 
-![Countdown](/prizes/prize11-2.jpg)
+![Countdown](/acti/prizes/prize11-2.jpg)
 
 The Message from steff is
 
@@ -499,19 +500,208 @@ Written in the standard 'corupt' aesethetic text.
 
 There is a message thatthe page will update at 6pm on August 16th 2022.
 
-## Clue 12 - Security Mainframe
+### Clue 12 - Security Mainframe
 Of note:
 
 ### Countdown
 * The text displayed has 'y' 'u' 'u', when copied these change to 'days' 'hours' 'minutes'
 * There are barcode-like images displayed either side of these
 
-![y](/clues/clue12-1.jpg) ![u](/clues/clue12-2.jpg) ![u2](/clues/clue12-3.jpg)
+![y](/acti//clues/clue12-1.jpg) ![u](/acti//clues/clue12-2.jpg) ![u2](/acti//clues/clue12-3.jpg)
 
 * Viewing the pages sources reveals this font is called 'Libre Barcode EAN13 Text', available on [Google Fonts](https://fonts.google.com/specimen/Libre+Barcode+EAN13+Text)
 
-![Font](/clues/clue12-4.jpg)
+![Font](/acti//clues/clue12-4.jpg)
 
+* The numbers that are visible are
+    308747283948
+
+Cybus tweet an image advertising their upgrades as a way to avoid the heatwave. 
+
+![Hot Hot Hot](/acti//clues/clue12-5.png)
+
+The bird on the sign is a finch, leading to
+
+    https://cybusindustries.org/finc
+
+This page contains another image
+
+![Finch](/acti/prizes/prize12-1.png)
+
+and a password protected Vimeo video.
+
+Using the numbers from the barcode text earlier, this video can be unlocked
+
+The video contains footage of a bird of paradise, leading to
+
+    https://cybusindustries.org/paradise
+
+Which contains an image
+
+![Paradise](/acti/prizes/prize12-2.png)
+
+### Clue 13 - August 15th
+Cybus tweet a link to their new range of NFTs
+
+    https://cybusindustries.org/NFTs
+
+The artists name is P. Crane, crane is a bird, so
+
+    https://cybusindustries.org/crane
+
+Which contains an image
+
+![Crane](/acti/prizes/prize13-1.png)
+
+And a [video](https://www.youtube.com/watch?v=ZfG10lNe38k). This video can also be reached by clicking the Auction button on the NFT page
+
+A reversed version of this video was [posted](https://twitter.com/SteffPorterC/status/1558917631196921861) to twitter by Steff, revealing the music to be 'somehwere over the rainbow' by July Garland. 
+
+This video includes a code
+
+    189-X667-EERT-4566-M16
+
+The lyrics include
+>Somewhere over the rainbow, bluebirds fly
+
+Leading to 
+
+    https://cybusindustries.org/bluebird
+
+Which has another image
+
+![Bluebird](acti/prizes/prize13-2.png)
+
+### Clue 14 - August 16th
+Cybus tweet a link to their LoFi beats [video](https://www.youtube.com/watch?v=JfO9op2-gKs)
+
+This features a hummingbird flying across the screen, leading to
+
+    https://cybusindustries.org/hummingbird
+
+which contains another image, as well as the countdown from the mainframe page
+
+![Hummingbird](/acti/prizes/prize14-1.png)
+
+The video also features a code for a brief moment
+    173-X261-CYBT-4562-MT1
+
+### Clue 15 - August 17th
+Steff [tweets](https://twitter.com/SteffPorterC/status/1559942417712906241) a leaked email
+
+![Leaked Email](/acti//clues/clue15_1.jpg)
+
+This contains the text
+
+    6865726f6e
+
+This can be decoded from Hex to 
+
+    heron
+
+Adding this to the Cybus website 
+
+    https://cybusindustries.org/heron
+
+Provides another image
+
+![Heron](/acti/prizes/prize16-1.png)
+
+## Breakout
+The timer on the security mainframe was delayed a few times, but when it did hit 0, a [YouTube video](https://www.youtube.com/watch?v=tLEPw_bYf-A) was uploaded by Steff
+
+This directed viewer to the Security Mainframe page, which was updated with a link to [Security Access](the_Canary_died6915)
+
+![Security Access](/acti//clues/breakout-1.png)
+
+This has 2 login fields, needing passwords. The two codes left unused are
+
+    189-X667-EERT-4566-M16
+    173-X261-CYBT-4562-MT1
+
+These codes are for User 1 and User 2, respectively. Each user when logged in reveals letters
+
+    User 1: conic
+    User 2: hopi
+
+There have been several hints at puppets throughout the story, which informs the unscrambling to reveal
+
+    pinocchio
+
+Entering this code to the security page reveals it has triggered a shutdown, a small resolution copy of the image pieced together, and a link to a (now deleted) livestream
+
+![small artefact](/acti/prizes/breakout-1.jpg)
+
+During the livestream, Steff needed viewers to guide her to a communications cabinet, which was done via a series of [twitter polls](https://twitter.com/SteffPorterC/status/1559979968863551489)
+
+Once she was there, a link to the [Elevator Override](https://cybusindustries.org/elevator-override/) was provided, needing another password. She tweeted a hint, the list of birds revealed so far and 'think like I think'
+
+![Password Hint](/acti//clues/breakout-2.png)
+
+Many clues have been in Hex format. By taking the initial of each bird, and converting to hex, the password is obtained
+
+    HHBCPFCSPMPWSP
+
+becomes
+
+    48 48 42 43 50 46 43 53 50 4d 50 57 53 50
+
+Removing spaces is the final password,
+
+    4848424350464353504d50575350
+
+Entering this password sucessfully helps Steff escape, seen in a final [YouTube Video](https://www.youtube.com/watch?v=_k1lOWawEFo)
+
+The page also contains the final piece of the image
+
+![Final piece](/acti/prizes/breakout-2.png)
+
+The final artefact image can now be assembled, which Steff tweets (minus the AW/LIFELESS/SIN overlay)
+
+![Artefact](/acti/prizes/artefact.jpg)
+
+# Act II
+
+Steff tweets out a discord username, and promptly appears in the Preachers Discord, in a new channel to communicate with the Preachers directly. 
+
+## Clue 1 - August 24th
+
+Cybus [tweets](https://twitter.com/CybusIndus/status/1562170017327857664) a promo for their upgrade program. Steff [replies](https://twitter.com/SteffPorterC/status/1562182734092681217) with a defaced image
+
+![Clue](/actii/clues/clue1-1.jpg)
+
+The text in the background
+
+    NGY2ZTY1NDY2YzY1Nzc0NTYxNzM3NA==
+
+Can be decoded from base64 (the == at the end indicate this) into hex
+
+    4f6e65466c657745617374
+
+And from hex into text
+
+    OneFlewEast
+
+This is a line from a childrens nursery rhyme, which a google search will reveal:
+
+    One flew east, one flew west\
+    One flew over the cuckoos nest
+
+Using the theme of birds, cuckoo can be added to the Cybus website
+
+    https://cybusindustries.org/cuckoo
+
+To reveal a page with the same image as Steffs tweet, and the word 'SHADES'
+
+![SHADES](/actii/prizes/prize1-1.jpg)
+
+_NOTE:_ The image on the page is titled 
+
+    cuckoo-ptpd5g03q7n3h90sdk6oj7l1mgqkws15jdbnd76i6o.png
+
+_This middle section is unlike the usual format images have taken in the game so far, with is usually being the resolution. It is unclear if this is intentional, or just a wordpress processing issue._
+
+Steff provides an update in the communications channel, saying the first word is out there (SHADES), and more will come. 
 
 # Other Information
 ## Cybus Industries Staff
@@ -545,7 +735,7 @@ Occupation: Ex-Cybus employee, helpful ally on Twitter\
 Context: Provides leaked information via Twitter [@steffPorterC](https://twitter.com/SteffPorterC)
 Alias: Naomi Tarker\
 Username: tarker_naomi01
-Status: Abducted by Cybus
+Status: Escaped from Cybus, now off-grif
 
 ## Cybus Industries Website
 ### 'Official' Pages
@@ -554,30 +744,48 @@ _Pages tweeted by the Cybus Industries twitter account_
 Homepage: https://cybusindustries.org/\
 Figurine Store: https://cybusindustries.org/figures/\
 Leadership Applications: https://cybusindustries.org/cyberleaders\
+NFT Page: https://cybusindustries.org/NFTs
 ### 'Discovered' Pages
 _Pages discovered through leaks and hints_
-
+#### Birds
+##### Act I
 Parakeet: https://cybusindustries.org/parakeet\
-Security: https://cybusindustries.org/security/\
 Seagull: https://cybusindustries.org/seagull/\
 Woodpecker: http://cybusindustries.org/woodpecker\
 Pigeon: https://cybusindustries.org/pigeon/\
 Mockingbird: https://cybusindustries.org/mockingbird\
 Peacock: https://cybusindustries.org/peacock/\
 Sparrow: https://cybusindustries.org/sparrow/\
+Finch: https://cybusindustries.org/finch\
+Crane: https://cybusindustries.org/crane\
+Paradise: https://cybusindustries.org/paradise\
+Bluebird: https://cybusindustries.org/bluebird\
+Hummingbird: https://cybusindustries.org/hummingbird\
+Heron: https://cybusindustries.org/heron
 
+##### Act II
+Cuckoo: https://cybusindustries.org/cuckoo
 
+#### Other Pages
+Security: https://cybusindustries.org/security/\
+Security Mainframe https://cybusindustries/securitymainframe/ (This was a late addition, with the Security page now linking to it)\
+Alan Watts: https://cybusindustries/alanwatts/\
+Security Access: https://cybusindustries.org/security-access/\
+Security User 1: https://cybusindustries.org/security-user-1/\
+Security User 2: https://cybusindustries.org/security-user-2/\
+Elevator Override: https://cybusindustries.org/elevator-override/
 
 ## Clearance Level Delta Materials
 
 From the Travel promo
 
-![Delta1](/prizes/prize0-1.jpg)
+![Delta1](/acti/prizes/prize0-1.jpg)
 
 From the leadership email
 
-![Delta2](/prizes/unit_archive_creature.png)
+![Delta2](/acti/prizes/unit_archive_creature.png)
 
+This image is referred to in an email from Cybus, revealing they have several of these creatures in storage vaults across the world
 
 # Meta Information
 ## Context
@@ -590,6 +798,11 @@ An ARG requires the players (us) to be crafty, looking for little hidden details
 A community discord has started up, found [here](https://discord.com/invite/Sut284Mj), where players share ideas, findings, and work through the mystery.
 ## Tools
 The below sites have been useful in cracking puzzles so far. They are not exclusive, but are very handy
+
+### Morse Code
+This is an old form of communication, with letters and numbers represented as dots and dashes, and spaces as slashes. 
+
+[Cryptii](https://cryptii.com/pipes/morse-code-translator) has a useful tool for encoding and decoding these messages
 
 ### Ceasar Shift
 This is a fairly common simple encrypting method. You just move each letter a certain number of letters down the alphabet. ABC shifted by 3 becomes DEF, as each letter is advanced by 3.
