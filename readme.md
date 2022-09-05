@@ -703,6 +703,127 @@ _This middle section is unlike the usual format images have taken in the game so
 
 Steff provides an update in the communications channel, saying the first word is out there (SHADES), and more will come. 
 
+## Clue 2 - August 29th
+Steff [tweets](https://twitter.com/SteffPorterC/status/1563985296173268994/photo/1) a QR code with the text 'good luck catching them swans then', which links to a scene from Hot Fuzz featuring swans. 
+
+![QR Clue](/actii/clues/clue2-1.png)
+
+This leads to
+
+    https://cybusindustries.org/swan/
+
+This page features a password protected video. In a tweet made around this time, Cybus Industries mention the code 
+
+    TIMES20
+
+Which is the password for this video. Following this, Steff [responded](https://twitter.com/SteffPorterC/status/1564000442148864000) to her earlier tweet with this image
+
+![Clue](/actii/clues/clue2-2.jpg)
+
+This is in the style of a spectrogram. Running the video through a spectrogram produces
+
+![Spectro](/actii/clues/clue2-3.png)
+
+The text is  
+
+    duckie
+
+The /swan page also includes this image
+
+![Stylish Cyber](/actii/clues/clue2-4.png)
+
+This hairstyle, the name 'duckie', and the general style of the room are all hints to the film 'Pretty In Pink'. This is the password
+
+    prettyinpink
+
+Entering this password reveals the next 'word', Pretty
+
+![Pretty](/actii/prizes/prize2-1.jpg)
+
+## Clue 3 - September 3rd
+Cybus [tweets](https://twitter.com/CybusIndus/status/1565776602268635136) a poster for their upcoming pirate film, Henry Avery
+
+![Henry Avery](/actii/clues/clue3-1.jpg)
+
+The parrot in the image is a clue to 
+
+    https://cybusindustries.org/parrot/
+
+This page features a genuinely horrific image of a parrot, as the cover for the Cybus e-book version of 'Treasure Island'
+
+![Bone chilling](/actii/clues/clue3-2.jpg)
+
+This image links to a PDF copy of Treasure Island, with some modifications.
+
+### Treasure Island
+There are a number of letters throughout the PDF that are  in blue, like so
+
+![e](/actii/clues/clue3-3.jpg)
+
+In total, the following blue sections are found:
+
+    Page 2: e
+    Page 24: x
+    Page 68: e
+    Page 70: y
+    Page 76: S
+    Page 88: v
+    Page 180: nt
+    Page 197: si
+
+These can be unscrambled to reveal 'Seventysix', which is NOT the password.
+
+In the PDF properties, the keywords contain a link to an image.
+
+![Properties](/actii/clues/clue3-4.jpg)
+
+    https://cybusindustries.org/wp-content/uploads/2022/09/SPC.png
+
+Viewing this image reveals the following, a PNG image with small holes in it (may not display properly but trust me there are little holes in this image)
+
+![Clue](/actii/clues/clue3-5.png)
+
+This image can be placed over page 76 to reveal the following. Paint3D was used for this, by lining up the provided image with the black rectangle around the page edge.
+
+![Reveal](/actii/clues/clue3-6.jpg)
+
+Joining the letters through the holes reveals
+
+    terrorised
+
+Which when entered into the page, reveals a [Youtube Video](https://www.youtube.com/watch?v=ZtFo5PrQBtA) and link to another page, [pieces-of-eight](https://cybusindustries.org/pieces-of-eight/). This page asks for a password, which is revealed below.
+
+### Videos
+The video linked to above is a 2010 upload with a talking parrot, for a Treasure Island theatre production. The comments section contains a comment by Cybus Industries, linking to another video
+
+![Comment](/actii/clues/clue3-7.jpg)
+
+    https://www.youtube.com/watch?v=1aNGIU7pTnQ&t=108s
+
+This video is discussing the New Theatre Royal production of treasure island. The link contains a timecode to start the video exactly halfway through.
+
+After this, Cybus Industries tweet out a new poster for their film, with the star having undergone an upgrade
+
+![Poster](/actii/clues/clue3-8.jpg)
+
+This poster includes some text on the gun
+
+![Gun](/actii/clues/clue3-9.jpg)
+
+    dGlueXVybC5jb20vbTMyNTgzNzQ=
+
+Which is decoded from Base64 to 
+
+    tinyurl.com/m3258374
+
+A [link](https://en.wikipedia.org/wiki/New_Theatre_Royal) to the New Theatre Royals wikipedia page. This page mentions that the capacity is 667. This is the password for the pieces-of-eight page, for some reason. It is unclear what was supposed to indicate the capacity was the answer, and this appears to be another trial and error puzzle.
+
+This password reveals another 'word', 15:30
+
+![15:30](/actii/prizes/prize3-1.jpg)
+
+Steff would later [tweet](https://twitter.com/SteffPorterC/status/1566517996302073856) that we now have 3 out of 5 bits of information
+
 # Other Information
 ## Cybus Industries Staff
 ### Steven Crest
@@ -721,6 +842,10 @@ Status: Missing.
 Position: UNIT Handover\
 Email: jamal.bennett@cybusindustries.org\
 Status: Alive
+### Molly Wingrove
+Position: Executive Social Manager
+Email: molly.wingrove@cybusindustries.org
+Status: Alive
 ## Other Important People
 ### Elon Magpie
 Occupation: Tech Genius, founder of Magpie Electronics\
@@ -735,7 +860,9 @@ Occupation: Ex-Cybus employee, helpful ally on Twitter\
 Context: Provides leaked information via Twitter [@steffPorterC](https://twitter.com/SteffPorterC)
 Alias: Naomi Tarker\
 Username: tarker_naomi01
-Status: Escaped from Cybus, now off-grif
+Status: Escaped from Cybus, now off-grif\
+
+Following her escape, Cybus [announced](https://twitter.com/CybusIndus/status/1563619092774486016) that her parents had been forcibly upgraded into Cybermen.
 
 ## Cybus Industries Website
 ### 'Official' Pages
@@ -764,7 +891,9 @@ Hummingbird: https://cybusindustries.org/hummingbird\
 Heron: https://cybusindustries.org/heron
 
 ##### Act II
-Cuckoo: https://cybusindustries.org/cuckoo
+Cuckoo: https://cybusindustries.org/cuckoo\
+Swan: https://cybusindustries.org/swan\
+Parrot: https://cybusindustries.org/parrot
 
 #### Other Pages
 Security: https://cybusindustries.org/security/\
@@ -773,7 +902,8 @@ Alan Watts: https://cybusindustries/alanwatts/\
 Security Access: https://cybusindustries.org/security-access/\
 Security User 1: https://cybusindustries.org/security-user-1/\
 Security User 2: https://cybusindustries.org/security-user-2/\
-Elevator Override: https://cybusindustries.org/elevator-override/
+Elevator Override: https://cybusindustries.org/elevator-override/\
+Pieces of Eight: https://cybusindustries.org/pieces-of-eight/
 
 ## Clearance Level Delta Materials
 
