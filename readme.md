@@ -1,7 +1,8 @@
 # Table of Contents
-[Clues so far](#clues)\
-[Useful ingame information](#other-information)\
-[Useful Information outside of the game]($meta-information)
+* [Act I](#act-i)
+* [Act II](#act-ii)
+* [Useful ingame information](#other-information)
+* [Useful Information outside of the game]($meta-information)
 
 _Some images have been resized on this page to make the page more readable. You can open the image in a new tab to view it at the full size_
 # Initial
@@ -664,10 +665,14 @@ The final artefact image can now be assembled, which Steff tweets (minus the AW/
 ![Artefact](/acti/prizes/artefact.jpg)
 
 # Act II
+## Clues
+* [Clue 1](#clue-1---august-24th)
+* [Clue 2](#clue-2---august-29th)
+* [Clue 3](#clue-3---september-3rd)
 
 Steff tweets out a discord username, and promptly appears in the Preachers Discord, in a new channel to communicate with the Preachers directly. 
 
-## Clue 1 - August 24th
+### Clue 1 - August 24th
 
 Cybus [tweets](https://twitter.com/CybusIndus/status/1562170017327857664) a promo for their upgrade program. Steff [replies](https://twitter.com/SteffPorterC/status/1562182734092681217) with a defaced image
 
@@ -706,7 +711,7 @@ _This middle section is unlike the usual format images have taken in the game so
 
 Steff provides an update in the communications channel, saying the first word is out there (SHADES), and more will come. 
 
-## Clue 2 - August 29th
+### Clue 2 - August 29th
 Steff [tweets](https://twitter.com/SteffPorterC/status/1563985296173268994/photo/1) a QR code with the text 'good luck catching them swans then', which links to a scene from Hot Fuzz featuring swans. 
 
 ![QR Clue](/actii/clues/clue2-1.png)
@@ -743,7 +748,7 @@ Entering this password reveals the next 'word', Pretty
 
 ![Pretty](/actii/prizes/prize2-1.jpg)
 
-## Clue 3 - September 3rd
+### Clue 3 - September 3rd
 Cybus [tweets](https://twitter.com/CybusIndus/status/1565776602268635136) a poster for their upcoming pirate film, Henry Avery
 
 ![Henry Avery](/actii/clues/clue3-1.jpg)
@@ -758,7 +763,7 @@ This page features a genuinely horrific image of a parrot, as the cover for the 
 
 This image [links](https://cybusindustries.org/wp-content/uploads/2022/09/treasure_island_cybus.pdf) to a PDF copy of Treasure Island, with some modifications.
 
-### Treasure Island
+#### Treasure Island
 There are a number of letters throughout the PDF that are  in blue, like so
 
 ![e](/actii/clues/clue3-3.jpg)
@@ -796,7 +801,7 @@ Joining the letters through the holes reveals
 
 Which when entered into the page, reveals a [Youtube Video](https://www.youtube.com/watch?v=ZtFo5PrQBtA) and link to another page, [pieces-of-eight](https://cybusindustries.org/pieces-of-eight/). This page asks for a password, which is revealed below.
 
-### Videos
+#### Videos
 The video linked to above is a 2010 upload with a talking parrot, for a Treasure Island theatre production. The comments section contains a comment by Cybus Industries, linking to another video
 
 ![Comment](/actii/clues/clue3-7.jpg)
@@ -846,8 +851,8 @@ Position: UNIT Handover\
 Email: jamal.bennett@cybusindustries.org\
 Status: Alive
 ### Molly Wingrove
-Position: Executive Social Manager
-Email: molly.wingrove@cybusindustries.org
+Position: Executive Social Manager\
+Email: molly.wingrove@cybusindustries.org\
 Status: Alive
 ## Other Important People
 ### Elon Magpie
