@@ -18,6 +18,7 @@ A bar, and
 A classified UNIT image
 
 <img src="acti/prizes/prize0-1.jpg" width="400px" height="400px">
+
 # Act I
 
 ## Clues
@@ -32,6 +33,11 @@ A classified UNIT image
 * [Clue 9](#clue-9---august-11th)
 * [Clue 10](#clue-10---august-12th)
 * [Clue 11](#clue-11---august-12th)
+* [Clue 12](#clue-12---security-mainframe)
+* [Clue 13](#clue-13---august-15th)
+* [Clue 14](#clue-14---august-16th)
+* [Clue 15](#clue-15---august-17th)
+* [Breakout](#breakout)
 ### Clue 1 - August 4th
 Cybus tweet about a security breach. The following image is tweeted
 
@@ -501,9 +507,6 @@ Written in the standard 'corupt' aesethetic text.
 There is a message thatthe page will update at 6pm on August 16th 2022.
 
 ### Clue 12 - Security Mainframe
-Of note:
-
-### Countdown
 * The text displayed has 'y' 'u' 'u', when copied these change to 'days' 'hours' 'minutes'
 * There are barcode-like images displayed either side of these
 
@@ -522,7 +525,7 @@ Cybus tweet an image advertising their upgrades as a way to avoid the heatwave.
 
 The bird on the sign is a finch, leading to
 
-    https://cybusindustries.org/finc
+    https://cybusindustries.org/finch
 
 This page contains another image
 
@@ -753,7 +756,7 @@ This page features a genuinely horrific image of a parrot, as the cover for the 
 
 ![Bone chilling](/actii/clues/clue3-2.jpg)
 
-This image links to a PDF copy of Treasure Island, with some modifications.
+This image [links](https://cybusindustries.org/wp-content/uploads/2022/09/treasure_island_cybus.pdf) to a PDF copy of Treasure Island, with some modifications.
 
 ### Treasure Island
 There are a number of letters throughout the PDF that are  in blue, like so
@@ -868,42 +871,43 @@ Following her escape, Cybus [announced](https://twitter.com/CybusIndus/status/15
 ### 'Official' Pages
 _Pages tweeted by the Cybus Industries twitter account_
 
-Homepage: https://cybusindustries.org/\
-Figurine Store: https://cybusindustries.org/figures/\
-Leadership Applications: https://cybusindustries.org/cyberleaders\
-NFT Page: https://cybusindustries.org/NFTs
+* Homepage: https://cybusindustries.org/
+* Figurine Store: https://cybusindustries.org/figures/
+* Leadership Applications: https://cybusindustries.org/cyberleaders
+* NFT Page: https://cybusindustries.org/NFTs
 ### 'Discovered' Pages
 _Pages discovered through leaks and hints_
 #### Birds
 ##### Act I
-Parakeet: https://cybusindustries.org/parakeet\
-Seagull: https://cybusindustries.org/seagull/\
-Woodpecker: http://cybusindustries.org/woodpecker\
-Pigeon: https://cybusindustries.org/pigeon/\
-Mockingbird: https://cybusindustries.org/mockingbird\
-Peacock: https://cybusindustries.org/peacock/\
-Sparrow: https://cybusindustries.org/sparrow/\
-Finch: https://cybusindustries.org/finch\
-Crane: https://cybusindustries.org/crane\
-Paradise: https://cybusindustries.org/paradise\
-Bluebird: https://cybusindustries.org/bluebird\
-Hummingbird: https://cybusindustries.org/hummingbird\
-Heron: https://cybusindustries.org/heron
+* Parakeet: https://cybusindustries.org/parakeet
+* Seagull: https://cybusindustries.org/seagull/
+* Woodpecker: http://cybusindustries.org/woodpecker
+* Pigeon: https://cybusindustries.org/pigeon/
+* Mockingbird: https://cybusindustries.org/mockingbird
+* Peacock: https://cybusindustries.org/peacock/
+* Sparrow: https://cybusindustries.org/sparrow/
+* Finch: https://cybusindustries.org/finch
+* Crane: https://cybusindustries.org/crane
+* Paradise: https://cybusindustries.org/paradise
+* Bluebird: https://cybusindustries.org/bluebird
+* Hummingbird: https://cybusindustries.org/hummingbird
+* Heron: https://cybusindustries.org/heron
 
 ##### Act II
-Cuckoo: https://cybusindustries.org/cuckoo\
-Swan: https://cybusindustries.org/swan\
-Parrot: https://cybusindustries.org/parrot
+* Cuckoo: https://cybusindustries.org/cuckoo
+* Swan: https://cybusindustries.org/swan
+* Parrot: https://cybusindustries.org/parrot
 
 #### Other Pages
-Security: https://cybusindustries.org/security/\
-Security Mainframe https://cybusindustries/securitymainframe/ (This was a late addition, with the Security page now linking to it)\
-Alan Watts: https://cybusindustries/alanwatts/\
-Security Access: https://cybusindustries.org/security-access/\
-Security User 1: https://cybusindustries.org/security-user-1/\
-Security User 2: https://cybusindustries.org/security-user-2/\
-Elevator Override: https://cybusindustries.org/elevator-override/\
-Pieces of Eight: https://cybusindustries.org/pieces-of-eight/
+##### Act I
+* Security: https://cybusindustries.org/security/
+* Security Mainframe https://cybusindustries/securitymainframe/ (This was a late addition, with the Security page now linking to it)
+* Alan Watts: https://cybusindustries/alanwatts/
+* Security Access: https://cybusindustries.org/security-access/
+* Security User 1: https://cybusindustries.org/security-user-1/
+* Security User 2: https://cybusindustries.org/security-user-2/
+* Elevator Override: https://cybusindustries.org/elevator-override/
+* Pieces of Eight: https://cybusindustries.org/pieces-of-eight/
 
 ## Clearance Level Delta Materials
 
