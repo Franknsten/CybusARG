@@ -669,8 +669,8 @@ The final artefact image can now be assembled, which Steff tweets (minus the AW/
 * [Clue 1](#clue-1---august-24th)
 * [Clue 2](#clue-2---august-29th)
 * [Clue 3](#clue-3---september-3rd)
-* [Clue 4]()
-* [Twitter Incident]()
+* [Clue 4](#clue-4---september-10th)
+* [Twitter Incident](cybus-twitter-incident)
 
 Steff tweets out a discord username, and promptly appears in the Preachers Discord, in a new channel to communicate with the Preachers directly. 
 
