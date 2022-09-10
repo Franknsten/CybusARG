@@ -830,7 +830,45 @@ This password reveals another 'word', 15:30
 
 ![15:30](/actii/prizes/prize3-1.jpg)
 
-Steff would later [tweet](https://twitter.com/SteffPorterC/status/1566517996302073856) that we now have 3 out of 5 bits of information
+Steff would later [tweet](https://twitter.com/SteffPorterC/status/1566517996302073856) that we now have 3 out of 5 pieces of information
+
+### Clue 4 - September 10th
+Cybus [tweets](https://twitter.com/CybusIndus/status/1568343185193111552) an image of a news site. 
+
+![Image](/actii/clues/clue4-1.jpg)
+
+In the top, the local councillor mentioned is Robin Sinclair. Robin is a bird, leading to
+
+    https://cybusindustries.org/robin
+
+This page has a Google Street View of Tower Bridge, and a password box. The bus in the Street View can be zoomed in on to reveal it is number 78
+
+![Bus](/actii/clues/clue4-2.jpg)
+
+Entering 78 into the password box reveals a button with the text 'ALL ABOARD'
+
+![All Aboard](/actii/clues/clue4-3.jpg)
+
+Clicking this takes you to a new page
+
+    https://cybusindustries.org/jamal_bennett/
+
+This has another Street View and password box. Zooming in on the building in the background shows the text 'the arms'
+
+![The Arms](/actii/clues/clue4-4.jpg)
+
+Entering 'the_arms' into the password box reveals more information on the page. A profile for Jamal Bennett, the man handling the UNIT handover for Cybus
+
+![Jamal](/actii/clues/jamal.jpg)
+
+And a leaked email discussing the need to begin testing on 'SP6' and progression to human trials
+
+![Jamal Email](/actii/clues/4-jamal.png)
+
+As well as a countdown, which does not feature the minutes aspect
+
+![Countdown](/actii/clues/4-timer.jpg)
+
 
 # Other Information
 ## Cybus Industries Staff
@@ -902,6 +940,7 @@ _Pages discovered through leaks and hints_
 * Cuckoo: https://cybusindustries.org/cuckoo
 * Swan: https://cybusindustries.org/swan
 * Parrot: https://cybusindustries.org/parrot
+* Robin: https://cybusindustries.org/robin
 
 #### Other Pages
 ##### Act I
@@ -912,7 +951,10 @@ _Pages discovered through leaks and hints_
 * Security User 1: https://cybusindustries.org/security-user-1/
 * Security User 2: https://cybusindustries.org/security-user-2/
 * Elevator Override: https://cybusindustries.org/elevator-override/
+
+##### Act II
 * Pieces of Eight: https://cybusindustries.org/pieces-of-eight/
+* jamal_bennett: https://cybusindustries.org/jamal_bennett/
 
 ## Clearance Level Delta Materials
 
