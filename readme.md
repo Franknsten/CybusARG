@@ -669,6 +669,8 @@ The final artefact image can now be assembled, which Steff tweets (minus the AW/
 * [Clue 1](#clue-1---august-24th)
 * [Clue 2](#clue-2---august-29th)
 * [Clue 3](#clue-3---september-3rd)
+* [Clue 4]()
+* [Twitter Incident]()
 
 Steff tweets out a discord username, and promptly appears in the Preachers Discord, in a new channel to communicate with the Preachers directly. 
 
@@ -869,7 +871,40 @@ As well as a countdown, which does not feature the minutes aspect
 
 ![Countdown](/actii/clues/4-timer.jpg)
 
+### Cybus Twitter Incident
+Following the previous step, a number of odd tweets went out from Cybus
 
+#### Patch Control Error
+[Tweet](https://twitter.com/CybusIndus/status/1568424105480699904)
+
+![Patch Control Error](/actii/clues/inc-1.jpg)
+
+The error code
+
+     01011111 01110100 01101000 01100001 01110100
+
+can be decoded as
+
+    _that
+
+#### Locate and Kill
+[Tweet](https://twitter.com/CybusIndus/status/1568426364294041601)
+
+![Locate and Kill](/actii/clues/inc-2.jpg)
+
+#### Failure
+[Tweet](https://twitter.com/CybusIndus/status/1568428206902095874)
+
+![Failure](/actii/clues/inc-3.jpg)
+
+#### Multilingual Responses
+The Cybus account tweets a [thread](https://twitter.com/CybusIndus/status/1568432996247830530)
+
+![Language](/actii/clues/inc-4.jpg)
+
+The tweets are the equivalent of 
+
+    Thank you for contacting Cybus Industries, we appreciate your message and our team will respond shortly
 # Other Information
 ## Cybus Industries Staff
 ### Steven Crest
